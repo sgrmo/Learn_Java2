@@ -1,8 +1,8 @@
 package DatatypesInJava;
 
-public class PrimitiveDatatypes {
+public class PrimitiveDatatype{
     public static void main(String[] args) {
-        //PrimitiveDatatypes--> 1.Numeric-->1.Integral--> Byte,Short,Int,Long,Char
+        //PrimitiveDatatype--> 1.Numeric-->1.Integral--> Byte,Short,Int,Long,Char
         //                                  2.Floating --> Float, Double
         //                      2.Boolean
 
