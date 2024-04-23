@@ -12,8 +12,5 @@ public class RelationalOperators {
 
         //Ternary Operator
         // condition? statement1:Statement2;
-
-
-
     }
 }
