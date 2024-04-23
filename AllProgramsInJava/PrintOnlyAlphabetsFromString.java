@@ -17,6 +17,8 @@ public class PrintOnlyAlphabetsFromString
                 c = c + b[i];
             }
         }
+
+        // new line
         System.out.println(c);
 
     }
